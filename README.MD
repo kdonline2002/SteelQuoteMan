@@ -45,8 +45,14 @@ Each quote line can contain multiple manufacturing processes such as:
 ## Automatic Calculations
 
 The application automatically calculates:
--	Process Cost
--	Line Item Price
+
+-   Mass Each (Kg)
+    -   Based on Volume(Length * Width * Thickness) and steel density.
+-   Price Each
+    -   Based on Mass Each (Kg), Price per Kg, and Processing cost.
+-	Processing Cost
+    -   Sum of processing cost.
+-	Line Price Total
 -	Quote Total
 
 
@@ -60,30 +66,44 @@ The application automatically calculates:
 
 ---
 
+<!-- ## Screenshots
+### Quote Maintenance
+<img src="docs/screenshots/QuoteMaintenance.png" alt="QuoteMaintenance" style="border: 1px solid black;">
+### Quote Details
+<img src="docs/screenshots/QuoteDetails.png" alt="QuoteDetails" style="border: 1px solid black;">
+### Quote Preview
+<img src="docs/screenshots/QuotePreview.png" alt="QuotePreview" style="border: 1px solid black;">
+### Create Quote
+<img src="docs/screenshots/CreateQuote.png" alt="CreateQuote" style="border: 1px solid black;">
+### Add Quote Line
+<img src="docs/screenshots/AddQuoteLine.png" alt="AddQuoteLine" style="border: 1px solid black;">
+### Add Process
+<img src="docs/screenshots/AddProcess.png" alt="AddProcess" style="border: 1px solid black;">
+### Quote Register
+<img src="docs/screenshots/QuoteRegister.png" alt="QuoteRegister" style="border: 1px solid black;"> -->
+
 ## Screenshots
 
 ### Quote Maintenance
-<img src="docs/screenshots/QuoteMaintenance.png" alt="QuoteMaintenance" style="border: 1px solid black;">
+<img src="docs/screenshots/QuoteMaintenance01.png" alt="QuoteMaintenance" style="border: 1px solid black;">
 
 ### Quote Details
-<img src="docs/screenshots/QuoteDetails.png" alt="QuoteDetails" style="border: 1px solid black;">
+<img src="docs/screenshots/QuoteDetails01.png" alt="QuoteDetails" style="border: 1px solid black;">
 
 ### Quote Preview
-<img src="docs/screenshots/QuotePreview.png" alt="QuotePreview" style="border: 1px solid black;">
+<img src="docs/screenshots/QuotePreview01.png" alt="QuotePreview" style="border: 1px solid black;">
 
 ### Create Quote
 <img src="docs/screenshots/CreateQuote.png" alt="CreateQuote" style="border: 1px solid black;">
 
-### Add Quote Line
-<img src="docs/screenshots/AddQuoteLine.png" alt="AddQuoteLine" style="border: 1px solid black;">
+### Add/Edit Quote Line
+<img src="docs/screenshots/AddEditQuoteLine01.png" alt="AddEditQuoteLine" style="border: 1px solid black;">
 
-### Add Process
-<img src="docs/screenshots/AddProcess.png" alt="AddProcess" style="border: 1px solid black;">
+### Add/Edit Process
+<img src="docs/screenshots/AddEditProcess01.png" alt="AddEditProcess" style="border: 1px solid black;">
 
 ### Quote Register
-<img src="docs/screenshots/QuoteRegister.png" alt="QuoteRegister" style="border: 1px solid black;">
-
-
+<img src="docs/screenshots/QuoteRegister01.png" alt="QuoteRegister" style="border: 1px solid black;">
 
 <!-- ## Screenshots
 ### Quote Maintenance
