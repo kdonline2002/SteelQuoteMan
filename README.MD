@@ -149,7 +149,7 @@ Planned functionality includes:
 -	Razor Views
 
 ### Link
-[Architecture Documentation](docs/ARCHITECTURE.md)
+[Architecture Documentation](docs/architecture.md)
 
 ## License
 
