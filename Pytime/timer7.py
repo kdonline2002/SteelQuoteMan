@@ -4,7 +4,7 @@ from datetime import datetime
 def run_timer(minutes):
     # Convert total minutes to seconds
     total_seconds = minutes * 60
-    
+    print("1=10 42")
     while total_seconds >= 0:
         # Get current date and time
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -23,7 +23,7 @@ def run_timer(minutes):
         time.sleep(1)
         
         # Decrease total seconds
-        total_seconds -= 1
+        total_seconds -= 10
 
     print("\nTime's up!")
 

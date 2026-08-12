@@ -1,6 +1,8 @@
 # STEEL QUOTE MANAGEMENT SYSTEM
 
-A quotation management system to create, manage, and maintain customer quotations, including multiple quote lines, and manufacturing processes.
+A responsive steel quotation management system designed for a steel fabrication and engineering business using ASP.NET Core MVC (.NET 8), Entity Framework Core, SQL Server, ViewModels, and a service-layer architecture.
+
+The application can be accessed from any device with a modern web browser and provides quote, quote line, and manufacturing process management, automated pricing calculations, soft deletes, lookup-based statuses, reporting, quote previews, validation, and a mobile-friendly user interface.
 
 ---
 
@@ -146,6 +148,7 @@ Planned functionality includes:
 -	Dependency Injection
 -	Razor Views
 
+### Link
 [Architecture Documentation](docs/ARCHITECTURE.md)
 
 ## License
