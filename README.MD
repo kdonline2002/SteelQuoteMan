@@ -1,6 +1,6 @@
 # STEEL QUOTE MANAGEMENT SYSTEM
 
-A responsive steel quotation management system designed for a steel fabrication and engineering business using ASP.NET Core MVC (.NET 8), Entity Framework Core, SQL Server, ViewModels, and a service-layer architecture.
+A responsive steel quotation management system designed for a steel fabrication and engineering business using <span style="color: blue;">ASP.NET Core MVC (.NET 8), Entity Framework Core, SQL Server, ViewModels, and a service-layer architecture.</span>
 
 The application can be accessed from any device with a modern web browser and provides quote, quote line, and manufacturing process management, automated pricing calculations, soft deletes, lookup-based statuses, reporting, quote previews, validation, and a mobile-friendly user interface.
 
@@ -92,11 +92,15 @@ The application automatically calculates:
 ### Quote Maintenance (Mobile)
 <img src="docs/screenshots/QuoteMaintenance02M.png" alt="QuoteMaintenance" style="border: 1px solid black;">
 
+---
+
 ### Quote Details (Desktop/Tablet)
 <img src="docs/screenshots/QuoteDetails02.png" alt="QuoteDetails" style="border: 1px solid black;">
 
 ### Quote Details (Mobile)
 <img src="docs/screenshots/QuoteDetails02M.png" alt="QuoteDetails" style="border: 1px solid black;">
+
+---
 
 ### Quote Preview (Desktop/Tablet)
 <img src="docs/screenshots/QuotePreview02.png" alt="QuotePreview" style="border: 1px solid black;">
@@ -104,14 +108,22 @@ The application automatically calculates:
 ### Quote Preview (Mobile)
 <img src="docs/screenshots/QuotePreview02m.png" alt="QuotePreview" style="border: 1px solid black;">
 
+---
+
 ### Create Quote (Desktop/Tablet)
 <img src="docs/screenshots/CreateQuote.png" alt="CreateQuote" style="border: 1px solid black;">
+
+---
 
 ### Add/Edit Quote Line (Desktop/Tablet)
 <img src="docs/screenshots/AddEditQuoteLine02.png" alt="AddEditQuoteLine" style="border: 1px solid black;">
 
+---
+
 ### Add/Edit Process (Desktop/Tablet)
 <img src="docs/screenshots/AddEditProcess01.png" alt="AddEditProcess" style="border: 1px solid black;">
+
+---
 
 ### Quote Register (Desktop/Tablet)
 <img src="docs/screenshots/QuoteRegister02.png" alt="QuoteRegister" style="border: 1px solid black;">
