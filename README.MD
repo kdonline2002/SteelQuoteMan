@@ -86,26 +86,38 @@ The application automatically calculates:
 
 ## Screenshots
 
-### Quote Maintenance
-<img src="docs/screenshots/QuoteMaintenance01.png" alt="QuoteMaintenance" style="border: 1px solid black;">
+### Quote Maintenance (Desktop/Tablet)
+<img src="docs/screenshots/QuoteMaintenance02.png" alt="QuoteMaintenance" style="border: 1px solid black;">
 
-### Quote Details
-<img src="docs/screenshots/QuoteDetails01.png" alt="QuoteDetails" style="border: 1px solid black;">
+### Quote Maintenance (Mobile)
+<img src="docs/screenshots/QuoteMaintenance02M.png" alt="QuoteMaintenance" style="border: 1px solid black;">
 
-### Quote Preview
-<img src="docs/screenshots/QuotePreview01.png" alt="QuotePreview" style="border: 1px solid black;">
+### Quote Details (Desktop/Tablet)
+<img src="docs/screenshots/QuoteDetails02.png" alt="QuoteDetails" style="border: 1px solid black;">
 
-### Create Quote
+### Quote Details (Mobile)
+<img src="docs/screenshots/QuoteDetails02M.png" alt="QuoteDetails" style="border: 1px solid black;">
+
+### Quote Preview (Desktop/Tablet)
+<img src="docs/screenshots/QuotePreview02.png" alt="QuotePreview" style="border: 1px solid black;">
+
+### Quote Preview (Mobile)
+<img src="docs/screenshots/QuotePreview02m.png" alt="QuotePreview" style="border: 1px solid black;">
+
+### Create Quote (Desktop/Tablet)
 <img src="docs/screenshots/CreateQuote.png" alt="CreateQuote" style="border: 1px solid black;">
 
-### Add/Edit Quote Line
-<img src="docs/screenshots/AddEditQuoteLine01.png" alt="AddEditQuoteLine" style="border: 1px solid black;">
+### Add/Edit Quote Line (Desktop/Tablet)
+<img src="docs/screenshots/AddEditQuoteLine02.png" alt="AddEditQuoteLine" style="border: 1px solid black;">
 
-### Add/Edit Process
+### Add/Edit Process (Desktop/Tablet)
 <img src="docs/screenshots/AddEditProcess01.png" alt="AddEditProcess" style="border: 1px solid black;">
 
-### Quote Register
-<img src="docs/screenshots/QuoteRegister01.png" alt="QuoteRegister" style="border: 1px solid black;">
+### Quote Register (Desktop/Tablet)
+<img src="docs/screenshots/QuoteRegister02.png" alt="QuoteRegister" style="border: 1px solid black;">
+
+### Quote Register (Mobile)
+<img src="docs/screenshots/QuoteRegister02M.png" alt="QuoteRegister" style="border: 1px solid black;">
 
 <!-- ## Screenshots
 ### Quote Maintenance
